@@ -1645,7 +1645,7 @@ models:
     fields:
       - type: string
         name: label
-        label: Button or Link
+        label: Link
         required: true
       - type: string
         name: url
